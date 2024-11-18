@@ -1,0 +1,15 @@
+{
+    "name": "Custom Line Chart",
+    "description": "A line chart with an area filled below.",
+    "author": "Your Name",
+    "organization": "Your Organization",
+    "iconUrl": "https://example.com/icon.png",
+    "dataRequirements": {
+        "dimensions": 1,
+        "metrics": 1
+    },
+    "components": {
+        "js": "https://AmanTheAnalyst.github.io/Looker-custom-visalizations/script.js",
+        "css": "https://AmanTheAnalyst.github.io/Looker-custom-visalizations/style.css"
+    }
+}
